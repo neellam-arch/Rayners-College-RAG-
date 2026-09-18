@@ -1,0 +1,15 @@
+Rayners College London — Data Science Course Overview
+
+The Data Science course at Rayners College London is designed for students interested in analytics, machine learning, and data-driven decision making. The course is delivered in partnership with our affiliated universities and is available at our London and Manchester campuses.
+
+Course highlights:
+- Foundations in statistics, Python programming, and data visualisation
+- Introduction to machine learning and predictive modelling
+- Real-world projects using industry datasets
+- Career support and progression pathways into AI Engineer, Data Analyst, and Data Scientist roles
+
+Entry requirement: a minimum of a 2:2 honours degree or equivalent for postgraduate entry, or relevant A-Levels/BTEC for undergraduate entry, with a preference for a mathematical or computing background.
+
+Duration: the undergraduate route typically runs 3 years full-time; the postgraduate route runs 1 year full-time.
+
+Students on this course have access to RCL's computing labs and receive dedicated mentoring from advisors experienced in the UK AI and data industry.
